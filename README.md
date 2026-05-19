@@ -12,7 +12,7 @@ It analyzes network data and identifies malicious patterns to improve cybersecur
 * Detect APT attacks using machine learning models
 * Improve the accuracy of threat detection
 * Provide a web-based interface for monitoring
-* Compare the performance of multiple algorithms
+* Compare performance of multiple algorithms
 
 ---
 
@@ -64,7 +64,7 @@ APT_Project/
 
 git clone https://github.com/RekhapalliUmaSatyaSantosh/RANK-AI-for-APT-s.git
 
-### 2. Navigate to the project folder
+### 2. Navigate to project folder
 
 cd apt-project
 
@@ -102,7 +102,7 @@ http://127.0.0.1:8000/
 ## ⚠️ Notes
 
 * Large dataset files may not be included in the repository
-* Pre-trained models (.pkl) may be stored externally if the size is large
+* Pre-trained models (.pkl) may be stored externally if size is large
 
 ---
 
