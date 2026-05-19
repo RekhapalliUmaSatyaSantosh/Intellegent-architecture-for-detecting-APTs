@@ -10,7 +10,7 @@ It analyzes network data and identifies malicious patterns to improve cybersecur
 ## 🎯 Objectives
 
 * Detect APT attacks using machine learning models
-* Improve the accuracy of threat detection
+* Improve accuracy of threat detection
 * Provide a web-based interface for monitoring
 * Compare performance of multiple algorithms
 
